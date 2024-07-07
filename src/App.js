@@ -55,6 +55,20 @@ const App = () => {
     }, [])
     return(
         <div className="app">
+            <div class="stars">
+                <div class="star"></div>
+                <div class="star"></div>
+                <div class="star"></div>
+                <div class="star"></div>
+                <div class="star"></div>
+                <div class="star"></div>
+                <div class="star"></div>
+                <div class="star"></div>
+                <div class="star"></div>
+                <div class="star"></div>
+                <div class="star"></div>
+                <div class="star"></div>
+            </div>
             <h1>MovieFinder</h1>
             <div className="search">
                 <input 
