@@ -1,6 +1,6 @@
 {
   "name": "moviefinder",
-  "homepage": "https://srijan-arya.github.io/MovieFinder.git",
+  "homepage": "https://srijan-arya.github.io/MovieFinder",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
