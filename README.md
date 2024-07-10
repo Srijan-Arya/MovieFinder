@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# API based project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created in ReactJs, integrated with an OMDB api. Each call request 10 movie, tv shows, games etc in JSON.
 
 ## Available Scripts
 
