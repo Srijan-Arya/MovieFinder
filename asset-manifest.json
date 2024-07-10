@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MovieFinder/static/css/main.1bf4db8c.css",
+    "main.js": "/MovieFinder/static/js/main.af12ce5b.js",
+    "static/media/imdb.png": "/MovieFinder/static/media/imdb.77a026c23598bd14cc92.png",
+    "index.html": "/MovieFinder/index.html",
+    "static/media/Search.svg": "/MovieFinder/static/media/Search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.1bf4db8c.css.map": "/MovieFinder/static/css/main.1bf4db8c.css.map",
+    "main.af12ce5b.js.map": "/MovieFinder/static/js/main.af12ce5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bf4db8c.css",
+    "static/js/main.af12ce5b.js"
+  ]
+}
