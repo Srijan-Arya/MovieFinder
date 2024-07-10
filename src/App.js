@@ -4,7 +4,7 @@ import searchIcon from './Search.svg';
 import logo from './logo192.png';
 import MovieCard from './MovieCard';
 
-const api_link = 'http://www.omdbapi.com?apikey=ef4759d8';
+const api_link = 'https://www.omdbapi.com?apikey=ef4759d8';
 const movList = [
     "Incept",
     "Forrest",
