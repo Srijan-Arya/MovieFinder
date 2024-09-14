@@ -1,4 +1,7 @@
-# API based project
+# MovieFinder
+
+![image](https://github.com/user-attachments/assets/ba72a915-b1e2-4c35-8e6b-208ac5a99380)
+
 
 This project was created in ReactJs, integrated with an OMDB api. Each call request 10 movie, tv shows, games etc in JSON.
 
